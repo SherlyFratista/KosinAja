@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FF9F43</color>
+    <color name="colorPrimaryDark">#FF9F43</color>
+    <color name="colorAccent">#FF9F43</color>
+    <color name="white">#FFFFFF</color>
+    <color name="semiwhite">#ffebee</color>
+    <color name="cardView">#fffafafa</color>
+
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#FF9F43</color>
+    <color name="bg_screen2">#FF9F43</color>
+    <color name="bg_screen3">#FF9F43</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#FF9F43</color>
+    <color name="dot_dark_screen2">#FF9F43</color>
+    <color name="dot_dark_screen3">#FF9F43</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#FF9F43</color>
+    <color name="dot_light_screen2">#FF9F43</color>
+    <color name="dot_light_screen3">#FF9F43</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+    </array>
+
+
+    <color name="black">#000000</color>
+    <color name="light_grey">#e4e4e4</color>
+    <color name="grey">#8b8b8b</color>
+    <color name="dark_grey">#696969</color>
+
+
+</resources>
